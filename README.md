@@ -55,7 +55,8 @@ Open the Project in RStudio: Navigate to the project directory and open the R sc
 
 Run the Application: Execute the following command to start the Shiny app:
 shiny::runApp("path/to/your/app")
-Usage Instructions
+
+Usage Instructions:
 Launch the application in RStudio.
 Navigate to the Dashboard tab.
 Enter the required tumor feature values in the input fields.
