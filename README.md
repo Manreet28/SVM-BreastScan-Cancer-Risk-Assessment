@@ -56,20 +56,25 @@ Open the Project in RStudio: Navigate to the project directory and open the R sc
 Run the Application: Execute the following command to start the Shiny app:
 shiny::runApp("path/to/your/app")
 
-Usage Instructions:
-Launch the application in RStudio.
-Navigate to the Dashboard tab.
-Enter the required tumor feature values in the input fields.
-Click the Predict button to get the diagnosis prediction.
-Review the Prediction Result, ROC Curve, and Confusion Matrix for insights into the prediction accuracy.
-About Breast Cancer
+# Usage Instructions
+
+1. Launch the application in RStudio.
+2. Navigate to the Dashboard tab.
+3. Enter the required tumor feature values in the input fields.
+4. Click the Predict button to get the diagnosis prediction.
+5. Review the Prediction Result, ROC Curve, and Confusion Matrix for insights into the prediction accuracy.
+
+# About Breast Cancer
+
 Breast cancer is one of the most prevalent cancers among women worldwide. The app provides educational resources on:
 
-Types of Tumors:
+## Types of Tumors
+- **Benign Tumors**: Non-cancerous growths that do not invade nearby tissues.
+- **Malignant Tumors**: Cancerous growths that can invade surrounding tissues and metastasize.
 
-Benign Tumors: Non-cancerous growths that do not invade nearby tissues.
-Malignant Tumors: Cancerous growths that can invade surrounding tissues and metastasize.
-Importance of Early Detection: Early detection significantly increases the chances of successful treatment. Regular screenings and consultations with healthcare professionals are crucial for at-risk individuals.
+## Importance of Early Detection
+Early detection significantly increases the chances of successful treatment. Regular screenings and consultations with healthcare professionals are crucial for at-risk individuals.
+
 
 Contributions
 Contributions to this project are welcome! If you'd like to suggest improvements or report issues, please fork the repository and create a pull request.
