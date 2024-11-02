@@ -49,13 +49,11 @@ To run the app locally, follow these steps:
    ```R
    install.packages(c("shiny", "shinydashboard", "ggplot2", "DT", "pROC", "e1071", "caret"))
 Clone the Repository: Clone or download this repository to your local machine:
-
 git clone https://github.com/Manreet28/SVM-BreastScan-Cancer-Risk-Assessment.git
+
 Open the Project in RStudio: Navigate to the project directory and open the R script file.
 
 Run the Application: Execute the following command to start the Shiny app:
-
-
 shiny::runApp("path/to/your/app")
 Usage Instructions
 Launch the application in RStudio.
