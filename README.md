@@ -76,13 +76,16 @@ Breast cancer is one of the most prevalent cancers among women worldwide. The ap
 Early detection significantly increases the chances of successful treatment. Regular screenings and consultations with healthcare professionals are crucial for at-risk individuals.
 
 
-##Contributions
+## Contributions
+
 Contributions to this project are welcome! If you'd like to suggest improvements or report issues, please fork the repository and create a pull request.
 
-##License
+## License
+
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-##Contact
+## Contact
+
 For inquiries or feedback, please reach out to:
 
 Manreet: manreetk666@gmail.com
